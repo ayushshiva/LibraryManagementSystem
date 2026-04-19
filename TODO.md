@@ -1,7 +1,18 @@
-# GitHub Push COMPLETE ✅ 2024
+# Project Status COMPLETE ✅
 
-- [x] Repo created & pushed: https://github.com/ayushshiva/LibraryManagementSystem
-- [x] 27 files (Java project, GUI, src)
-- [ ] Optional: Clean binaries/data & force push
+## GitHub Push
+- [x] Repo: https://github.com/ayushshiva/LibraryManagementSystem (main f6fbab7)
+- [x] Files: src/*.java, JAR, bat
 
-Task done!
+## App
+- [x] LibraryManagementSystem.jar (runnable JAR, GUI Login)
+- [x] run.bat (double-click Windows app)
+- [x] run.sh (cross-platform)
+
+## Live
+- [ ] GitHub Pages: Settings > Pages > main/root > Save
+- Live: https://ayushshiva.github.io/LibraryManagementSystem
+
+Run: double-click run.bat
+
+Done!
