@@ -1,0 +1,7 @@
+{
+  "name": "Library Management System",
+  "short_name": "LibraryApp",
+  "description": "Library management app",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff
